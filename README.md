@@ -1,2 +1,2 @@
-# QuizzInCSharp
-A simple console quizz game
+# Console Template
+A template for Console Apps.
